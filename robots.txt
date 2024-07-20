@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umbishaeu.github.io/sitemap
+Sitemap: https://umbishaeu.github.io/app/sitemap
+Sitemap: https://umbishaeu.github.io/assets/sitemap
+Sitemap: https://umbishaeu.github.io/css/sitemap
+Sitemap: https://umbishaeu.github.io/includes/sitemap
+Sitemap: https://umbishaeu.github.io/item/sitemap
+Sitemap: https://umbishaeu.github.io/src/sitemap
